@@ -3,5 +3,6 @@ import { NewButton } from './components/NewButton';
 import { NewCard } from './components/NewCard';
 import { Button } from './components/ui/button';
 import { Card } from './components/ui/card';
+import { ToggleButton } from './components/ToggleButton';
 
-export { NewButton, NewCard, Button, Card };
+export { NewButton, NewCard, Button, Card, ToggleButton };

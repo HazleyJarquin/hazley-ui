@@ -7,8 +7,7 @@ module.exports = {
     '@storybook/addon-essentials',
     '@storybook/addon-interactions',
     '@storybook/addon-mdx-gfm',
-    '@chromatic-com/storybook',
-    '@storybook/addon-themes',
+    '@storybook/addon-themes'
   ],
 
   webpackFinal: async (config, { configType }) => {
