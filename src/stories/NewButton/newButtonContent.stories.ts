@@ -16,6 +16,7 @@ type Story = StoryObj<typeof meta>;
 export const content: Story = {
   args: {
     title: 'NewButton',
+    variant: 'ghost',
   },
   //   argTypes: {
   //     isSelected: { table: { disable: true } },
